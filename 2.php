@@ -6,6 +6,6 @@ function get_input() {
   return $a;
 }
 
-/*
+
 echo get_input();
-*/
+
