@@ -7,5 +7,5 @@ function get_input() {
 }
 
 
-echo get_input();
+//echo get_input();
 
